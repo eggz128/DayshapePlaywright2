@@ -99,3 +99,5 @@ test('drag drop slider', async ({ page }) => {
   await smoothDrag(page, '#slider a', 100, 5)
 
 })
+
+//Comment to test CI
